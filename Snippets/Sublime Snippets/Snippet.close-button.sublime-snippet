@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+<!-- The close button on its own doesn't close elements, but you can use it with Toggler, Reveal, Off-canvas, and other plugins that have open and close behaviors.
+ -->
+<div class="callout">
+  <button class="close-button" aria-label="Close alert" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  <p>You can so totally close this!</p>
+</div>
+]]></content>
+  <tabTrigger>zf-close-button</tabTrigger>
+  <description>ZURB Foundation 6 Close Buttons</description>
+  <scope>text.html</scope>
+</snippet>

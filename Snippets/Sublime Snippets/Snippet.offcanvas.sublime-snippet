@@ -1,0 +1,36 @@
+<snippet>
+  <content><![CDATA[
+<!-- this should be placed at the top of the page, just after <body> -->
+<div class="off-canvas-wrapper">
+  <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+
+    <!-- title-bar -->
+    <div class="title-bar">
+      <div class="title-bar-left">
+        <button class="menu-icon" type="button" data-open="offCanvasLeft"></button>
+        <span class="title-bar-title">Foundation</span>
+      </div>
+      <div class="title-bar-right">
+        <button class="menu-icon" type="button" data-open="offCanvasRight"></button>
+      </div>
+    </div>
+
+    <!-- Reveal on Classes: reveal-for-medium, reveal-for-large -->
+    <div class="off-canvas position-left" id="offCanvas" data-off-canvas>
+      <!-- your left off canvas menu -->
+    </div>
+    <div class="off-canvas-content" data-off-canvas-content>
+      <!-- your left off canvas menu -->
+    </div>
+    <!-- place your page content here -->
+
+
+    <!-- be sure to close the wrapping divs at the end of the page -->
+  </div>
+</div>
+<!-- you can load your javascripts after this closing div -->
+]]></content>
+  <tabTrigger>zf-offcanvas</tabTrigger>
+  <description>ZURB Foundation 6 Offcanvas</description>
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+<!-- Widescreen Class: widescreen -->
+<!-- Vimeo Embed Class: vimeo -->
+<div class="flex-video">
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/V9gkYw35Vws" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="flex-video widescreen vimeo">
+  <iframe src="ENTER VIDEO URL HERE" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+]]></content>
+  <tabTrigger>zf-video</tabTrigger>
+  <description>ZURB Foundation 6 Flex Video</description>
+  <scope>text.html</scope>
+</snippet>

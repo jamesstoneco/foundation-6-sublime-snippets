@@ -1,9 +1,5 @@
-# foundation-6-sublime-snippets
+# ZURB Foundation 6 Sublime Text Snippets
 ZURB Foundation for Sites 6 Sublime Text 3 Snippets 
-
-## ZURB Foundation 5 Sublime Text Snippets
-
-#### Installation on Sublime Text 2 and Sublime Text 3
 
 ###### Mac/Linux Instructions
 
@@ -17,12 +13,12 @@ ZURB Foundation for Sites 6 Sublime Text 3 Snippets
 
 2. Clone repository into packages folder
 
-`git clone https://github.com/zurb/foundation-5-sublime-snippets.git`
+`git clone https://github.com/zurb/foundation-6-sublime-snippets.git`
 
 ###### Windows Instructions
 
 `cd "%AppData%\Sublime Text 3\Packages\User"`
-`git clone https://github.com/zurb/foundation-5-sublime-snippets.git`
+`git clone https://github.com/zurb/foundation-6-sublime-snippets.git`
 
 * Each snippet is prefixed with `zf-` (ZURB Foundation).
 * Each snippet is singular, unless the name of the component ends in an s (offcanvas)
@@ -34,26 +30,17 @@ Component        | Usage
 :--------------- | :-----------:
 Offcanvas        | zf-offcanvas + tab
 Topbar           | zf-topbar + tab
-Sidenav          | zf-sidenav + tab
-Subnav           | zf-subnav + tab
 Breadcrumbs      | zf-breadcrumb + tab
 Pagination       | zf-pagination + tab
 Orbit            | zf-orbit + tab
-Clearing         | zf-clearing + tab
 Buttons          | zf-button + tab
 Button Groups    | zf-button-group + tab
-Split Buttons    | zf-split-button + tab
-Dropdown Buttons | zf-dropdown-button + tab
 Reveal           | zf-reveal + tab
-Alerts           | zf-alert + tab
-Panels           | zf-panel + tab
-Pricing Tables   | zf-pricing-table + tab
+Callouts         | zf-callout + tab
 Progress Bars    | zf-progress-bar + tab
 Accordion        | zf-accordion + tab
 Tabs             | zf-tab + tab
 Vertical Tabs    | zf-vertical-tab + tab
-Horizontal Iconbar| zf-iconbar-horizontal + tab
-Vertical Iconbar | zf-iconbar-vertical + tab
 Flex Video		 | zf-video + tab
 
 

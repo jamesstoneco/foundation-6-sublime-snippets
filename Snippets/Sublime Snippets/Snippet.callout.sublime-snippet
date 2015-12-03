@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+<!-- Color Classes: [secondary primary success warning alert] -->
+<!-- Sizing Classes: [small large] -->
+<!-- Close Button: data-closable -->
+<div class="callout">
+  <h5>This is a callout.</h5>
+  <p>It has an easy to override visual style, and is appropriately subdued.</p>
+  <a href="#">It's dangerous to go alone, take this.</a>
+</div>
+]]></content>
+  <tabTrigger>zf-callout</tabTrigger>
+  <description>ZURB Foundation 6 Callout</description>
+  <scope>text.html</scope>
+</snippet>

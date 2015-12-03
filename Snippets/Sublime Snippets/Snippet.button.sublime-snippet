@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+<!-- Size Classes: [tiny small large] -->
+<!-- Radius Classes: [radius round] -->
+<!-- Color Classes: [secondary success alert warning] -->
+<!-- Sizing Class: expanded -->
+<!-- Hollow Style Class: hollow -->
+<!-- Dropdown Arrow Class: dropdown -->
+<!-- Disabled Class: disabled -->
+<!-- NOTE: The .disabled class is a purely visual style, and won't actually disable a control. For <button> elements, you can add the disabled attribute to disable it. -->
+<a href="#" class="button">Default Button</a>
+]]></content>
+  <tabTrigger>zf-button</tabTrigger>
+  <description>ZURB Foundation 6 Buttons</description>
+  <scope>text.html</scope>
+</snippet>
